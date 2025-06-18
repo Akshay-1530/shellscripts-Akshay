@@ -6,3 +6,5 @@ done
 
 
 echo "we have add new code commit"
+
+echo "we have add new code commit"
